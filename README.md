@@ -9,7 +9,7 @@
 **Context:**
 This dataset provides insights into airline operations and passenger demographics, useful for optimizing operations and enhancing customer experiences.
 
-**  Dataset Content:**
+**Dataset Content:**
 - **Passenger ID:** Unique identifier for each passenger
 - **First Name:** Passenger's first name
 - **Last Name:** Passenger's last name
